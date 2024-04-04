@@ -2,10 +2,10 @@ input: .
 output: .retype
 url: subramanian-thiagarajan.github.io
 branding:
-  title: Project Name
-  label: Docs
+  title: Subbu Docs
+  label: v1.1.1
 links:
-- text: Getting Started
+- text: My Github Link
   link: https://retype.com/guides/getting-started/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
